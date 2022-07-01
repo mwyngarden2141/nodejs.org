@@ -3,7 +3,7 @@ layout: index.hbs
 labels:
   current-version: Current Version
   download: Download
-  download-for: Download for
+  download-for: Download for ios
   other-downloads: Other Downloads
   current: Current
   lts: LTS
